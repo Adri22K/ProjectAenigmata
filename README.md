@@ -6,7 +6,8 @@ Projeto interdisciplinar solicitado em 2021 para conclusão do 3° Semestre de A
 - Foi elaborado um jogo com tema: Vetores e Matrizes;
 - Contém fases com desafios e interações;
 - Design será de acordo com o segmento único de todas as interfaces;
-- O enredo contará a história que os desenvolvedores <a href=“https://github.com/Adri22K/ProjectAenigmata/blob/main/Documents/Enredo.pdf“>projetaram</a>;
+- O enredo contará a história que os desenvolvedores 
+<a href=“https://github.com/Adri22K/ProjectAenigmata/blob/main/Documents/Enredo.pdf“>projetaram</a>
 - O jogo contém algums easter eggs que apareceram para o usuário; 
 - O software exigirá passar dos desafios para concluir o objetivo; 
 - Decisões terá que ser tomado pelo usuário;
