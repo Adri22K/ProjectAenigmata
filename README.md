@@ -1,13 +1,14 @@
-# 📍 ProjectAenigmata
+# 📍 Project Aenigmata
 Projeto interdisciplinar solicitado em 2021 para conclusão do 3° Semestre de ADS
 
-<h1> ⚙  Requisitos Específicos  </h1>
+# 🎮 Jogo em JAVA
 
-- Foi elaborado um jogo onde tema vetores e matrizes;
-- Fases com desafios e interações;
+- Foi elaborado um jogo com tema: Vetores e Matrizes;
+- Contém fases com desafios e interações;
 - Design será de acordo com o segmento único de todas as interfaces;
-- Enredo contará a história que os desenvolvedores projetaram;
-- O jogo contém algums eastereggs que apareceram para o usuário; 
+- O enredo contará a história que os desenvolvedores <a href=“http://exemplo.com/“>projetaram</a>;
+
+- O jogo contém algums easter eggs que apareceram para o usuário; 
 - O software exigirá passar dos desafios para concluir o objetivo; 
 - Decisões terá que ser tomado pelo usuário;
 
