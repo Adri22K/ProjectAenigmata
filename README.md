@@ -40,4 +40,4 @@ Projeto interdisciplinar solicitado em 2021 para conclusão do 3° Semestre de A
 - Gustavo Bezerra Lima RGM: 414722
 - Alissa Hirata Maximo RGM: 414775
 - Matheus Abade Lopes RGM: 412179
-- Rafael Alves dos Reis RGM: 415054 
+- Rafael dos Reis Alves RGM: 415054 
