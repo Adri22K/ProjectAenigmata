@@ -34,10 +34,9 @@ Projeto interdisciplinar solicitado em 2021 para conclusão do 3° Semestre de A
 <h3>Curso: Análise e Desenvolvimento de Sistemas </h3>
 3° Semestre - Matutino
 
-- Adrielle Stollemberger RGM: 415052
-- Luiz Augusto Batista Júnior RGM: 415772
-- Fábio Yukio Takano RGM: 414855
-- Gustavo Bezerra Lima RGM: 414722
-- Alissa Hirata Maximo RGM: 414775
-- Matheus Abade Lopes RGM: 412179
-- Rafael dos Reis Alves RGM: 415054 
+- Adrielle Stollemberger RGM: 4150520
+- Luiz Augusto Batista Júnior RGM: 4157720
+- Fábio Yukio Takano RGM: 4148550
+- Gustavo Bezerra Lima RGM: 4147220
+- Matheus Abade Lopes RGM: 4121790
+- Rafael dos Reis Alves RGM: 4150540
